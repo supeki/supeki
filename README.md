@@ -8,6 +8,8 @@
 - ⚡ Fun fact: I started my programming journey on a Nintendo DSi XL with Petit Computer at Age 9.
 ```
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A41QHZBW)
+
 <!---
 I'm eating this comment, I need the sustenance. 
 --->
