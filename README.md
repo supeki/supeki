@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I started my programming journey on a Burgandy Nintendo DSi XL with Petit Computer at Age 9.
 ```
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A41QHZBW)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A41QHZBW)<br>
 [![roboblast](https://maril.dev/graphics/buttons/srb2.gif)](https://srb2.maril.dev)
 
 <!---
