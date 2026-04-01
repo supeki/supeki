@@ -1,5 +1,5 @@
 ```
-- 👋 Hi, I’m Marilyn!
+- 👋 Hi, I’m Marilyn Nozomi!
 - 👀 I’m interested in developing my own web community, making games, and modding pre-existing games.
 - 🌱 I’m currently learning C/C++, Lua, HTML, CSS, JS, HTTP protocol and Sockets.
 - 💞️ I’m looking to collaborate on small modding projects while I work on my game.
@@ -9,6 +9,7 @@
 ```
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A41QHZBW)
+[![roboblast](https://maril.dev/graphics/buttons/srb2.gif)](https://srb2.maril.dev)
 
 <!---
 I'm eating this comment, I need the sustenance. 
